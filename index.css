@@ -1,0 +1,217 @@
+.Angel{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+.menu{
+  font-size: 13px;
+  text-align: center;
+}
+.menu > a {
+  text-decoration: none;
+  color:black;
+  margin-right: 20px;
+  font-family: 'Press Start 2P', cursive;
+}
+.menu > a:visited{
+  color: green;
+}
+.menu > a:hover{
+  color: black;
+}
+h1{
+  text-align: center;
+  border: 2px dotted black;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  font-size: 25px;
+  font-family: 'Press Start 2P', cursive;
+}
+h2{
+  padding-bottom: 5px;
+  padding-top: 5px;
+  font-size: 20px;
+  font-family: 'Press Start 2P', cursive;
+}
+p{
+  font-family: 'Press Start 2P', cursive;
+}
+p > i{
+  font-family: 'Press Start 2P', cursive;
+}
+
+
+.Joker{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+h2{
+  font-family: 'Press Start 2P', cursive;
+}
+p{
+  font-family: 'Press Start 2P', cursive;
+}
+p > i{
+  font-family: 'Press Start 2P', cursive;
+}
+.John{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.V{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.GNR{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.CB{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.SL{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.HU{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.Naruto{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.DN{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.GA{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.Book{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.Cartoon{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.Mat1{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+.Mat2{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.Mat3{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.Mat4{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.Mat5{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.Mat6{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.Mat7{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.Mat8{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.Mat9{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.Mat10{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.Mat11{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.Mat12{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.Mat13{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.Mat14{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.Mat15{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
+
+.Mat16{
+  border-radius: 15%;
+  height: 250px;
+  width: 250px;
+}
